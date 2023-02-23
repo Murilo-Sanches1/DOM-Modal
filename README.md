@@ -1,6 +1,6 @@
 # DOM-Modal
 
-Projeto simples que consiste na manipulação da DOM para controlar o estado de um modal - Programado de forma imperativa.
+Projeto simples que consiste na manipulação da DOM (Document Object Model) para controlar o estado de um modal - Programado de forma imperativa.
 
 ## Tecnologias
 * HTML
